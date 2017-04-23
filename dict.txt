@@ -1,0 +1,537 @@
+detection coverage
+instrument range
+tracking range
+maximum detection range
+minimum detection range
+tracking range
+tracking velocity and acceleration
+angle tracking
+blind zone
+radar frequency band
+radar operating frequency coverage
+radar bandwidth
+radar cross section
+system sensitivity
+radar response time
+radar operation time
+radar operation modes
+scanning
+electrical scanning
+mechanical scanning
+sector scanning
+conical scanning
+scan mode
+scan coverage
+target data rate
+target model
+target capacity
+detection probability
+false alarm probability
+false alarm time
+false alarm number
+minimum detectable signal-to-noise ratio
+signal processing capability
+data processing capability
+image-processing capability
+target identification capability
+adaptive capability
+sub-clutter visibility
+signal processing response
+reflection characteristics
+transmitter signal
+signal parameter
+display mode
+radar monitor and control
+radar control
+continuous operating time
+fault false alarm rate
+false alarm rate
+
+target dimension
+measurement accuracy
+relative measurement accuracy
+tracking accuracy
+navigation accuracy
+radar resolution
+thermal noise error
+sources of range error
+angular error
+serve noise
+dynamic lag error
+angular glint error
+range glint error
+multi-path error
+atmospheric refraction error
+calibrated error
+
+counter-countermeasure capability
+anti-clutter
+agility
+beam adapt
+
+identification probability
+interrogation probability
+response probability
+identification coverage
+response coverage
+
+frequency agility
+instantaneous bandwidth
+polarization agility
+
+linear frequency modulated signal
+nonlinear frequency modulated signal
+phase shift keyed signal
+frequency shift keyed signal
+linear FM pulse compression
+nonlinear FM pulse compression
+phase-coded pulse compression
+mainlobe to sidelobe ratio
+compression rate
+digital pulse compression
+analog pulse compression
+
+fixed multi-beam
+cosecant squared beam
+multi-beam receive
+phased array antenna
+digital beam forming
+beam pointer
+scan antenna array
+antenna array scan
+frequency sensitivity
+digital beam forming DBF
+
+
+angular measurement
+mono-pulse
+sum pattern
+difference pattern
+simultaneous lobing
+angular measurement
+amplitude comparison
+
+pulse Doppler DP
+range-gate
+beam sharpening
+velocity resolution
+main-lobe clutter
+side-lobe clutter
+range ambiguity
+range foldover effect
+velocity ambiguity
+clutter-free
+detection zone
+multiple PRF ranging
+linear frequency modulation ranging
+transmitted-pulse
+pulse suppression
+clutter suppression
+signal spectral
+signal spectral line width
+signal spectral purity
+main spectral
+line amplitude
+zero Doppler frequency
+
+inverse synthetic aperture
+synthetic aperture length
+focused processing
+motion compensation
+
+passive location
+time-of-arrival location
+azimuth location
+elevation location
+cross location
+multi-station passive location
+target motion analysis
+direct location
+indirect location
+location error
+
+target recognition technique
+locus recognition
+waveform recognition
+speed recognition
+polarization recognition
+pole recognition
+resonance recognition
+multi-frequency radar
+impulse radar
+spectrum estimates
+target recognition
+imaging recognition
+range profile recognition
+garble
+
+radar antenna
+beam control
+signal processing
+antenna pattern
+main lobe
+side lobe level
+side lobe suppression
+beam width
+half-power beam width
+main lobe beam width
+zero beam width
+minor lobe level
+back lobe level
+input impedance
+bandwidth of antenna
+antenna bandwidth
+response frequency
+impedance match
+squint angle
+separated angle
+cross-over level
+electrical boresight
+boresight error
+reference boresight
+plane pattern
+isolation between antennas
+directive gain
+radiation efficiency
+effective area of antenna
+scan angle
+concial angle
+scanning speed
+frequency sensitivity
+depolarization
+effective radiation power
+excitation coefficients
+superdirective
+right hand polarized
+left hand polarized
+electrical boresight
+side lobe in wide-angle
+quantization loss in gain
+quantization error
+spurious lobe
+grating lobe
+grating lobe pattern
+blind spot
+radome
+reflected power coefficient
+transmitted power loss
+radar feeding
+primary pattern
+secondary pattern
+phase pattern
+amplitude pattern
+intercepted power
+spillover power
+
+feeder line
+attenuation constant
+insertion loss
+transmission loss
+cut off wavelength
+cut off frequency
+power handling capacity
+breakdown
+breakdown power
+characteristic impedance
+voltage reflection coefficient
+voltage standing wave ration
+impedance matching
+coupling degree
+degree of coupling
+directivity
+reverse loss
+gas tight for feeder
+gas tight
+multiport network
+directional coupler
+echo-box
+duplexer
+transmission line switch
+feed network
+sum difference network
+multi-beam forming network
+phase shift network
+multi mode networkk
+
+single stage oscillator transmitter
+oscillator transmitter
+coherent transmitter
+amplifier transmitter
+coded transmitter
+solid-state transmitter
+solid state transmitter
+microwave frequency synthesis
+microwave power synthesis
+microwave power dividing
+output power dividing
+power dividing
+power flatness
+output power flatness
+RF pulse
+pulse spectrum
+leakage power
+harmonic suppression degree
+transmitter harmonic
+suppression degree
+transmitter clutter
+pulse rise time
+pulse leading edge
+pulse leading edge
+transmitting bandwidth
+transmitter efficiency
+frequency shift mode
+frequency shift range
+frequency shift velocity
+shift mode
+shift range
+shift velocity
+protection modes
+transmitter spurious niose
+frequency stability
+amplitude and phase stability
+obstruction rate
+pulse duty cycle
+missing pulse
+pulse modulator
+standing wave
+over pulse protection circuit
+over pulse protection circuit
+protection circuit
+over duty cycle
+flow control
+gate switch
+
+monopulse receiver
+mone-pulse receiver
+phase locked receiver
+phase-lock receiver
+pulse compression receiver
+pulse Doppler receiver
+Doppler receiver
+compression receiver
+locked receiver
+pulse receiver
+agile receiver
+radar receiver
+pulse radar receiver
+continuous wave radar
+continuous-wave radar receiver
+frequency modulated radarr
+logarithmic receiver
+coherent receiver
+correlation receiver
+optimum receiver
+spectrum center frequency
+frequency receiver
+
+sidelobe receive
+digit intermediate
+intermediate frequency
+receiver limit sensitivity
+limit sensitivity
+operation sensitivity
+operation sensitivity
+saturation level
+receiver saturation level
+receiver dynamic range
+dynamic range
+noise figure
+noise ratio
+receiver gain
+receiver recovery time
+recovery time
+receiver suppression
+phase equalization
+amplitude equalization
+automatic gain control
+gain control
+instantaneous automatic gain control
+receiver bandwidth
+conversion frequency loss
+frequency loss
+sensitivity time control
+receiver burned power
+maximum input power
+local oscillator frequency stability
+local oscillator spectrum
+line dynamic range
+automatic frequency control
+pull in bandwidth
+maximum search time
+tracking accuracy
+image rejection
+automatic phase control
+phase control
+conversion
+frequency integration
+phase detection
+peak detection
+pulse detection
+quadrature channels
+channel amplitude equalization
+channel phase error
+channel isolation
+frequency compensation
+clutter Doppler frequency compensation
+locked bandwidth
+ocked amplitude
+input dynamic range
+Dicke fix circuits
+fix circuits
+
+signal processing response time
+response time
+optimum threshold
+signal detection
+constant false alarm rate
+constant false alarm rate detection
+slow threshold constant alarm rate
+quick threshold constant alarm rate
+quasi-optimal detection
+feedback integrate detection
+detection criterion
+frequency discrimination
+phase discrimination
+velocity discrimination
+pulse width detection
+automatic detection
+double threshold detection
+density detection
+width detection
+binary direction
+integration detector
+slide window
+small slide-window
+rank quantity
+parameter detector
+signal integration
+video integration
+time side lobe
+passive clutter
+moving-target detector
+moving target detector MTD
+moving target indicator MTI
+moving target tracker MTT
+adaptive moving target indicator
+clutter map
+velocity clutter map
+residual clutter map
+pulse Doppler signal
+pulse Doppler signal processing
+
+window extraction
+all zone extraction
+all-zone extraction
+zone extraction
+plot extraction capability
+extraction accuracy
+input plot
+track capacity
+data processor
+smooth extrapolation
+refreshing rate
+track correlation
+plot extraction
+parameter estimation
+primary display
+secondary display
+graphical display
+sector display
+video mapping
+delay display
+range-elevation
+range-height indicator
+plan-position indicator
+azimuth stabilized
+stretch range indicator
+R indicator
+A indicator
+X-Y scope
+photograph indicator
+synthetic indicator
+rectangular coordinate
+coordinate indicator
+polar coordinate
+autonomous indicator
+raster scanning
+raster display
+random scanning display
+clutter map for surface features
+surface features
+vertical detection
+plane detection range
+strobe marker
+calibration marker
+range marker
+azimuth marker
+time base line
+
+antenna control
+antenna program control system
+antenna pedestal lift machine
+antenna pedestal
+antenna locking device
+stabilized platform
+north signal
+automatic leveling
+gradient sensor
+automatic searching north
+antenna control coverage
+antenna control velocity coverage
+antenna control stability
+antenna control sensitivity
+anti-load
+angular data transfer accuracy
+transfer accuracy
+static error
+dynamic error
+disturbing isolation
+beam rerotation time
+synchronous stability
+synchronous sensitivity
+
+angle tracking
+range tracking
+velocity tracking
+angle tracking accuracy
+angular tracking loop
+frequency response character
+aided tracking
+split gate tracker
+leading edge tracking
+
+synchronization signal
+datum signal
+frequency synthesizer
+high-stability frequency source
+direct frequency synthesizer
+indirect frequency synthesizer
+direct digital frequency synthesizer
+pulse frequency shift
+PRF stagger
+PRF jitter
+time base resolving
+digital resolving
+encording disk
+arithmetic unit
+
+main control table
+parameter measuring
+condition monitor
+automatic switch
+pulse compensation
+
+power supply station
+radar power supply
+inverse power
+power undulate
+output voltage stability
+voltage adjustment
+
+conversion frequency
+dynamic range
+microwave synthesis
+pulse protection circuit
+quantization loss
+range azimuth
+range amplitude
